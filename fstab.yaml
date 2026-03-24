@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://raw.githubusercontent.com/Aishwarya1414/mysite/main"
+    url: "https://author-p43719-e1936337.adobeaemcloud.com/bin/franklin.delivery/Aishwarya1414/mysite/main"
     type: "markup"
-    suffix: ".md"
+    suffix: ".html"
